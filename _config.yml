@@ -1,0 +1,10 @@
+title: 무물 수능 법률 문서
+description: 무물 수능 이용약관 및 개인정보처리방침
+lang: ko-KR
+url: "https://legal.justanswer.algorize-edu.com"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+draft: true
+exclude:
+  - README.md
