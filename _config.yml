@@ -5,6 +5,6 @@ url: "https://legal.justanswer.algorize-edu.com"
 baseurl: ""
 markdown: kramdown
 permalink: pretty
-draft: true
+draft: false
 exclude:
   - README.md

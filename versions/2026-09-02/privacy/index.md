@@ -2,7 +2,7 @@
 layout: default
 title: 무물 수능 개인정보처리방침
 description: 무물 수능 개인정보처리방침 2026-09-02 버전 (2026년 9월 7일 시행)
-permalink: /privacy/
+permalink: /versions/2026-09-02/privacy/
 policy_version: "2026-09-02"
 announced_at: "2026-09-07"
 effective_at: "2026-09-07"
