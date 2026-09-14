@@ -6,7 +6,7 @@ permalink: /
 
 # 무물 수능 법률 문서
 
-현재 문서 버전은 `2026-09-02`이며, 공고일과 시행일은 2026년 9월 7일입니다.
+아래 문서는 아직 시행하지 않은 개정안입니다.
 
 > **광고 관련 미확정 사항 안내**
 >
@@ -16,4 +16,4 @@ permalink: /
 - [개인정보처리방침]({{ '/privacy/' | relative_url }})
 - [개인정보 국외이전 안내]({{ '/privacy/#cross-border-transfer' | relative_url }})
 - [계정 및 데이터 삭제 안내]({{ '/privacy/#account-deletion' | relative_url }})
-- [문서 버전 안내]({{ '/versions/' | relative_url }})
+- [문서 안내]({{ '/versions/' | relative_url }})
