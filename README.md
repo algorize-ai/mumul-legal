@@ -9,12 +9,12 @@
 - 개인정보 국외이전: `https://legal.justanswer.algorize-edu.com/privacy/#cross-border-transfer`
 - 계정 및 데이터 삭제: `https://legal.justanswer.algorize-edu.com/privacy/#account-deletion`
 - 문서 목록: `https://legal.justanswer.algorize-edu.com/versions/`
-- 이용약관 사본: `https://legal.justanswer.algorize-edu.com/versions/2026-09-14/terms/`
-- 개인정보처리방침 사본: `https://legal.justanswer.algorize-edu.com/versions/2026-09-14/privacy/`
+- 이용약관 사본: `https://legal.justanswer.algorize-edu.com/versions/2026-09-16/terms/`
+- 개인정보처리방침 사본: `https://legal.justanswer.algorize-edu.com/versions/2026-09-16/privacy/`
 
 ## 현재 문서 상태
 
-문서 식별자는 `2026-09-14`, 공고일과 시행일은 `2026-09-16`으로 유지한다. 본문은 광고가 포함된 정식 서비스의 정책을 이용자용 문장으로 작성한다. 문구 확정과 실제 기능 활성화, 배포 및 이용자 동의 이력은 구분하여 확인한다.
+문서 식별자, 공고일과 시행일은 `2026-09-16`으로 통일한다. 본문은 광고가 포함된 정식 서비스의 정책을 이용자용 문장으로 작성한다. 문구 확정과 실제 기능 활성화, 배포 및 이용자 동의 이력은 구분하여 확인한다.
 
 사용자 확인에 따라 배포 테스트용 과거 문서와 중복 초안은 정리했다. 과거 게시본은 Git 커밋 `bef2daf`에 보존돼 있다. 현재 페이지와 식별자별 사본은 permalink를 제외한 본문과 메타데이터가 같아야 한다.
 

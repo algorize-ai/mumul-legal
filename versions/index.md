@@ -10,7 +10,7 @@ permalink: /versions/
 
 | 문서 | 이용약관 | 개인정보처리방침 |
 | --- | --- | --- |
-| 2026년 9월 16일 시행 | [보기]({{ '/versions/2026-09-14/terms/' | relative_url }}) | [보기]({{ '/versions/2026-09-14/privacy/' | relative_url }}) |
+| 2026년 9월 16일 시행 | [보기]({{ '/versions/2026-09-16/terms/' | relative_url }}) | [보기]({{ '/versions/2026-09-16/privacy/' | relative_url }}) |
 
 - [이용약관]({{ '/terms/' | relative_url }})
 - [개인정보처리방침]({{ '/privacy/' | relative_url }})

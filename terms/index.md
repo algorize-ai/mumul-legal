@@ -3,7 +3,7 @@ layout: default
 title: 무물 수능 이용약관
 description: "무물 수능 이용약관 (시행일: 2026-09-16)"
 permalink: /terms/
-policy_version: "2026-09-14"
+policy_version: "2026-09-16"
 announced_at: "2026-09-16"
 effective_at: "2026-09-16"
 ---
